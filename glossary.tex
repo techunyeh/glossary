@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{glossaries}
+ 
+\makeglossaries
+ 
+\newglossaryentry{compiler}
+{
+    name=compiler,
+    description={A compiler is a program that translate code into another type of code.  The original code is called "source code" while the code the compiler outputs is called the "target language"}
+}
+ 
+\newglossaryentry{maths}
+{
+    name=mathematics,
+    description={Mathematics is what mathematicians do}
+}
+ 
+\title{Computer Science Glossary}
+\author{ }
+\date{ }
+ 
+\begin{document}
+\maketitle
+ 
+The \Gls{compiler} typesetting markup language is specially suitable for documents that include \gls{maths}. 
+ 
+\clearpage
+ 
+\printglossaries
+ 
+\end{document}
