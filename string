@@ -1,0 +1,5 @@
+\newglossaryentry{string}
+{
+    name=string,
+    description={String is nothing but a sequence of characters, for e.g. “Hello” is a string of 5 characters. In java, string is an immutable object which means it is constant and can cannot be changed once it has been created. In this tutorial we will learn about String class and String methods in detail along with many other Java String tutorials }
+}
