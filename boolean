@@ -1,0 +1,7 @@
+\newglossaryentry{boolean}
+{
+    name=boolean,
+    description={The term "Boolean," often encountered when doing searches on the Web (and sometimes spelled "boolean"), refers to a system of logical thought developed by the English mathematician and computer pioneer, George Boole (1815-64). In Boolean searching, an "and" operator between two words or other values (for example, "pear AND apple") means one is searching for documents containing both of the words or values, not just one of them. An "or" operator between two words or other values (for example, "pear OR apple") means one is searching for documents containing either of the words.
+
+In computer operation with binary values, Boolean logic can be used to describe electromagnetically charged memory locations or circuit states that are either charged (1 or true) or not charged (0 or false). The computer can use an AND gate or an OR gate operation to obtain a result that can be used for further processing.}
+}
